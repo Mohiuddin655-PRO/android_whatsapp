@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tag_chats">Chats</string>
+    <string name="tag_status">Status</string>
+    <string name="tag_incoming_calls">Incoming Calls</string>
+</resources>
